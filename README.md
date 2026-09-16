@@ -16,7 +16,7 @@ Assertions use Playwright's own, since these auto-retry for a few seconds rather
 
 ```bash
 git clone https://github.com/seanwillis88dev/saucedemo-playwright-seanwillis-1609
-cd saucedemo-playwright
+cd saucedemo-playwright-seanwillis-1609
 npm install
 npx playwright install
 ```
