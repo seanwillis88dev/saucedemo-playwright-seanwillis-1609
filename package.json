@@ -1,0 +1,16 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript automation framework for Sauce Labs Demo App sign-in scenarios",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "typescript": "^5.6.0"
+  }
+}
