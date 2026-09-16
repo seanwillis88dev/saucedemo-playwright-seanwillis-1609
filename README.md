@@ -11,6 +11,7 @@ Assertions use Playwright's own, since these auto-retry for a few seconds rather
 
 - Node.js 18+
 - npm
+- Git
 
 ## Getting set up
 
