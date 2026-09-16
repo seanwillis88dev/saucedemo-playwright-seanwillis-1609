@@ -15,6 +15,8 @@ Assertions use Playwright's own, since these auto-retry for a few seconds rather
 
 ## Getting set up
 
+Please run the following in order to first pull the test folder, change the terminal location to that folder, then install npm packages and playwright. Once each one has been successfully completed, please run the last command under the 'Running tests' section (npm test) to run the tests in headless mode and view the outcomes. There is also a report that's generated via playwright which the terminal will give you a link to once tests are completed, thanks.
+
 ```bash
 git clone https://github.com/seanwillis88dev/saucedemo-playwright-seanwillis-1609
 cd saucedemo-playwright-seanwillis-1609
